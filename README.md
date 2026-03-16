@@ -70,4 +70,4 @@ The project uses a combination of data analysis and database technologies:
 
 ## About
 
-This project was developed as part of the **onboarding and training process at webeet.io**, focusing on practical experience with **data exploration, SQL analysis, and building simple data pipelines using real-world datasets**.
+This project was developed as part of the **onboarding and training process at [webeet.io](https://www.webeet.io/)**, focusing on practical experience with **data exploration, SQL analysis, and building simple data pipelines using real-world datasets**.
